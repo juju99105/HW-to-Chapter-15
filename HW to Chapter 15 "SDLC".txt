@@ -1,0 +1,18 @@
+SDLC (Software Development Life Cycle) is a process used to develop software applications. It consists of several steps that guide the development process from start to finish. The common steps in SDLC are:
+
+1. Requirements Gathering: Gathering and documenting the software requirements.
+2. System Design: Creating a high-level design of the system architecture and components.
+3. Coding: Writing the actual code for the software application.
+4. Testing: Conducting various tests to ensure the software meets the requirements and functions correctly.
+5. Deployment: Deploying the software to the production environment.
+6. Maintenance: Providing ongoing support, bug fixes, and updates to the software.
+
+Different types of SDLC include:
+
+1. Waterfall Model: A linear sequential approach where each phase is completed before moving to the next one.
+2. Agile Model: An iterative and incremental approach that emphasizes collaboration, flexibility, and customer feedback.
+3. Spiral Model: A risk-driven model that combines elements of both waterfall and iterative development.
+4. V-Model: A variation of the waterfall model that emphasizes testing at each stage of development.
+5. Iterative Model: A cyclic approach where the software is developed in small increments, with each increment building upon the previous one.
+
+These are just a few examples of SDLC types, and there are other variations and hybrid models as well. The choice of SDLC depends on factors such as project requirements, team size, and customer preferences.
